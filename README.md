@@ -1,1 +1,1 @@
-# Lazada Importer for Opencart
+# Lazada Importer for Opencart v.2.x
